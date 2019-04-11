@@ -1,0 +1,6 @@
+projectKey=org.springframework.boot:provider-user
+serverUrl=http://192.168.247.128:9000/sonar
+serverVersion=6.7.4.38452
+dashboardUrl=http://192.168.247.128:9000/sonar/dashboard/index/org.springframework.boot:provider-user
+ceTaskId=AWn7jS-BUSi4PsFWkKqp
+ceTaskUrl=http://192.168.247.128:9000/sonar/api/ce/task?id=AWn7jS-BUSi4PsFWkKqp
